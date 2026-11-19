@@ -118,7 +118,7 @@ O simulador biofísico calcula o rendimento projetado ($R_{proj}$) aplicando fat
 ## 📁 Estrutura do Repositório
 
 ```text
-agroclima_piaui/
+ZeaPI-monitoramento_agricola/
 ├── backend/
 │   └── pipeline_spark.py      # Pipeline ETL, limpeza, cálculo de risco e ML
 ├── data/
@@ -149,8 +149,8 @@ agroclima_piaui/
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/agroclima_piaui.git
-cd agroclima_piaui
+git clone https://github.com/seu-usuario/ZeaPI-monitoramento_agricola.git
+cd ZeaPI-monitoramento_agricola
 ```
 
 ### 2. Criar e Ativar o Ambiente Virtual
