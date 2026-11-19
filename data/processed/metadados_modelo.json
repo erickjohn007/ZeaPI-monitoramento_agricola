@@ -1,0 +1,23 @@
+{
+    "metricas_modelo": {
+        "rmse_kg_ha": 1119.86,
+        "r2_score": 0.3961,
+        "algoritmo": "RandomForestRegressor (100 árvores, max_depth=8)"
+    },
+    "importancia_variaveis": {
+        "precipitacao_anual_mm": 0.1433,
+        "temp_media_c": 0.0222,
+        "temp_max_c": 0.0654,
+        "temp_min_c": 0.0633,
+        "graus_dia_base10": 0.0522,
+        "area_plantada_ha": 0.6536
+    },
+    "features": [
+        "precipitacao_anual_mm",
+        "temp_media_c",
+        "temp_max_c",
+        "temp_min_c",
+        "graus_dia_base10",
+        "area_plantada_ha"
+    ]
+}

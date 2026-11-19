@@ -1,0 +1,33 @@
+# Ambientes Virtuais e Gerenciadores de Pacotes
+.venv/
+env/
+venv/
+ENV/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Caches do Streamlit
+.streamlit/cache/
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e Arquivos Temporários
+*.log
+*.tmp
+scratch/

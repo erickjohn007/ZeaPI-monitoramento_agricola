@@ -1,0 +1,15 @@
+# ==============================================================================
+# ZeaPI · Dependências do Projeto
+# ==============================================================================
+
+# Núcleo de Processamento de Dados & Modelagem Preditiva (Backend)
+pandas>=2.2.0
+numpy>=1.26.0
+pyarrow>=17.0.0
+scikit-learn>=1.4.0
+joblib>=1.3.0
+
+# Aplicação Web & Visualização Interativa (Frontend)
+streamlit>=1.38.0
+plotly>=5.24.0
+requests>=2.31.0
